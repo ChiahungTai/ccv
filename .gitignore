@@ -31,3 +31,10 @@ tool/*
 config.mk
 build
 site/_site
+.cproject
+.project
+lib/.deps
+lib/config.log
+lib/config.status
+samples/image-net-2012-vgg-d.sqlite3
+samples/pedestrian.icf
